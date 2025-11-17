@@ -14,6 +14,9 @@
 ## 项目部分展示
 <img width="2036" height="937" alt="image" src="https://github.com/user-attachments/assets/eec9636f-cf73-4c11-a2cf-939cb711cf82" />
 
+<img width="1906" height="820" alt="image" src="https://github.com/user-attachments/assets/d9555a4f-5f9a-444b-8fac-226a43e0add6" />
+
+
 
 <img width="2056" height="917" alt="image" src="https://github.com/user-attachments/assets/1a596677-2079-45fb-88e9-e09d2c328021" />
 
