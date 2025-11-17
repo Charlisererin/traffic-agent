@@ -1,5 +1,5 @@
 # 2025年全球校园人工智能算法精英大算算法创新赛-ai+应用创新-国家二等奖获奖作品
-##项目技术
+## 项目技术
 道路状况综合识别与管理涉及交通管理、道路养护、智能驾驶等多个领域，具有广泛的应用场景和迫切的需求。本团队积极响应行业需求与技术发展趋势，开发了智能体协同的道路场景融合识别系统——智同道合。智同道合以先进的Qwen2.5-7B-VL[12]开源多模态大模型量化版本为核心，融合了Adaptive-RAG[8]、Corrective-RAG[9]、Self-RAG[10]等多种前沿技术，结合LiSA微调[6]和Visual Perception Token[7]方法，以及多模型协作，实现了对道路状况的精准识别、实时监测与智能问答，为交管部门和社会公众提供高效、智能的交通管理与出行服务解决方案。
 本产品的主要优势集中在：
 1.	交通多模态语料库驱动的复合RAG精准回复。智同道合系统基于先进的Qwen2.5-7B-VL[12]开源多模态大模型量化版本，融合了Adaptive-RAG[8]、Corrective-RAG[9]和Self-RAG[10]等前沿技术，实现了对道路状况的精准识别、实时监测与智能问答。这些技术通过多路由协作、检索评分机制与幻觉自检机制的检索增强生成策略，有效结合了检索和生成方法的优势，使系统能够生成更准确且上下文相关的响应。该技术不仅提高了输出的整体质量，还扩展了系统处理复杂且细致入微的查询的能力，弥补了传统微调大模型的幻觉现象与RAG无法应对用户询问知识库之外的问题。
@@ -9,14 +9,30 @@
 
 
 数据由于平台限制只上传一部分，欢迎合作交流
-##项目部分展示
+
+
+## 项目部分展示
 <img width="2036" height="937" alt="image" src="https://github.com/user-attachments/assets/eec9636f-cf73-4c11-a2cf-939cb711cf82" />
+
+
 <img width="2056" height="917" alt="image" src="https://github.com/user-attachments/assets/1a596677-2079-45fb-88e9-e09d2c328021" />
+
+
 <img width="2010" height="922" alt="image" src="https://github.com/user-attachments/assets/fcd63bb2-19e0-4164-b8a8-5f28939173f4" />
+
+
 <img width="2000" height="949" alt="image" src="https://github.com/user-attachments/assets/94da2f1f-6a90-40bb-8cfb-ea440e9ff4ee" />
+
+
 <img width="2015" height="903" alt="image" src="https://github.com/user-attachments/assets/271b8e4d-20c7-4df6-9bdc-ecdd19a0d968" />
+
+
 <img width="1994" height="997" alt="image" src="https://github.com/user-attachments/assets/a0b25a14-afd0-4d23-99fb-fc662a215424" />
+
+
 <img width="2000" height="892" alt="image" src="https://github.com/user-attachments/assets/b9766bbd-c673-43e9-8ae9-ad84badf8fd6" />
+
+
 <img width="2023" height="791" alt="image" src="https://github.com/user-attachments/assets/68f2b19f-f390-4cb6-83cf-3568a8e82161" />
 
 
